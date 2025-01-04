@@ -28,7 +28,7 @@ function Projects() {
               title="Suchi Tracker"
               description="Aanganwadi Inventory Management System developed using PHP, CSS, SQL, and JavaScript. Features include real-time inventory tracking, user-friendly interface for staff, and efficient data management.\zzzz"
               ghLink="https://github.com/dhyeykhanpara21/Suchi_Tracker"
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://github.com/dhyeykhanpara21/Suchi_Tracker"
             />
           </Col>
 
@@ -36,10 +36,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Jarvis"
+              description=" My Personal Ai Assistant Which is Made Of a virtual assistant using HTML, CSS, and JavaScript for dynamic task automation. Features an interactive UI, real-time voice command processing, and a speech recognition system for seamless control."
+              ghLink="https://github.com/dhyeykhanpara21/Jarvis-in-Javascript-main-main"
+              demoLink="https://jarvis-black.vercel.app/"
             />
           </Col>
 
