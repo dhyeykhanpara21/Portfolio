@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Dhyey Khanpara </span>
             from <span className="purple"> Gandhinager, India.</span>
             <br />
-            I am currently employed as a Game developer at Mfinity Infotech.
+            I am currently employed as a Fresher.
             <br />
-            I have completed engineerin from Computering at LDRP Gandhinager
+            I have completed Engineering from Computering at LDRP Gandhinager
       
             <br />
             <br />

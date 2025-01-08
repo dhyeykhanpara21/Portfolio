@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />I am fluent in classic technologies such as
               <i>
-                <b className="purple"> HTML, CSS, Javascript, and Node.JS. </b>
+                <b className="purple"> HTML, CSS, Javascript, MERN STACK. </b>
               </i>
               <br />
               <br />
@@ -32,7 +32,7 @@ function Home2() {
                 <b className="purple">Web Technologies &nbsp; </b> and
                 also in areas related to&nbsp;&nbsp;&nbsp;&nbsp;{" "}
                 <b className="purple">
-                Bug Finding.
+                Data Analyst and Bug Finding.
                 </b>
               </i>
               <br />
