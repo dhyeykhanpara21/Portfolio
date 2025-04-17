@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="http://localhost:3000/"
+                href="https://luphonix-blog.onrender.com/"
                 target="_blank"
                 rel="noreferrer"
               >
